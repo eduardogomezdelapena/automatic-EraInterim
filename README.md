@@ -1,2 +1,2 @@
 # automatic-EraInterim
-Python scripts for automathic download of Era-Interim-reanalysis-data 
+Python scripts for automatic download of Era-Interim-reanalysis-data 
